@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Mar! <br/><a href="https://github.com/mardgonzalez"> <a href="https://www.linkedin.com/in/mardecristal/">Cybersecurity Professional</a>
 
-<!--
-**MarDGonzalez/MarDGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+<b>    Linkedin: https://linkedin.com/in/mardecristal
+
+
+
+- 🔭 I’m currently working on Secure Network Design principles
+- 🌱 I’m currently learning how to address common network vulnerabilities
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: e-mail or LinkedIn
 - ⚡ Fun fact: ...
--->
+  
